@@ -78,7 +78,7 @@ Then place the four census CSVs in `data/` and open
 ![Literacy rate by province](images/literacy_by_province.png)
 ![Province comparison](images/province_comparison.png)
 
-## Next step
+## DashBoard
+![Dashboard](images/dashboard.png)
 
-Build an interactive dashboard (Tableau / Power BI) to explore literacy
-rate by district and province.
+
